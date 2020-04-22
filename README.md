@@ -2,4 +2,4 @@
 
 My personal website. 
 
-https://yousuf1997.github.io/portfolio/
+https://yousuf1997.github.io/profolio/
